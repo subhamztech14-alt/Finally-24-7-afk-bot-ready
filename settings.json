@@ -1,20 +1,20 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Subhypixepbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "hpsubham.aternos.me",
+    "port": 45645,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 10
     "z": 0
   },
   "utils": {
@@ -23,17 +23,17 @@
       "password": "SoloPlayz"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": true
       "sneak": true
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": true
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "All players op pro",
+        "Thank you for joining SUBHYPIXEL"
       ]
     },
     "chat-log": true,
